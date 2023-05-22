@@ -1,10 +1,12 @@
 # Linker
 <p>
 <a href="https://github.com/IK-R-S/Linker"><img src="https://img.shields.io/github/license/ik-r-s/linker?label=LINKER%20LICENSE&style=for-the-badge" alt="License"></a>
- 
 </p>
 One-stop solution for cross-platform link and note management. 🖥️📲
+
+<p></p>
  
+ [![linker-demo.png](https://i.postimg.cc/HsVFC5k1/linker-demo.png)](https://github.com/IK-R-S/Linker)
 
 ## Description
 
